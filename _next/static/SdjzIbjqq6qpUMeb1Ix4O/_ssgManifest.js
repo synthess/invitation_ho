@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fcards\u002Fthankyou\u002F[id]","\u002Finvitations\u002FbabyBirthday\u002F[id]","\u002Finvitations\u002FbabyBirthday\u002F[id]\u002Fsave-as-image"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
